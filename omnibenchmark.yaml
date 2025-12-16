@@ -1,0 +1,2 @@
+entrypoints:
+  default: metric_collector.py
